@@ -10,6 +10,7 @@
     "node-gameloop": "^0.1.4",
     "pixi.js": "^4.5.1",
     "sillyname": "^0.1.0",
-    "socket.io": "^1.7.3"
+    "socket.io": "^1.7.3",
+    "sanitize-html": "^1.14.1"
   }
 }
